@@ -1,0 +1,29 @@
+ _____              __  __ _                _   _ _      
+|  ___| __ ___  ___|  \/  (_) ___ _ __ ___ | \ | (_)_  __
+| |_ | '__/ _ \/ _ \ |\/| | |/ __| '__/ _ \|  \| | \ \/ /
+|  _|| | |  __/  __/ |  | | | (__| | | (_) | |\  | |>  < 
+|_|  |_|  \___|\___|_|  |_|_|\___|_|  \___/|_| \_|_/_/\_\
+                                                         
+Version 0.12
+
+Working Features:
+	VGA Terminal Driver
+	Global Descriptor Table
+	Interrupt Descriptor Table
+	8259 Programmable Interrupt Controller
+	Interrupt Handlers
+	PC Spekeaker Driver
+	8254 Programmable Interval Timer Driver
+
+Features In Progress:
+	Memory Management System
+	Memory Paging
+	PS/2 Keyboard Driver
+	Bootloader
+	FM-FS (FreeMicroNix File System)
+
+Licensing Information
+	Read the attached LICENSE file for licensing information.
+
+Credits
+	Special Thanks to osdev.org
