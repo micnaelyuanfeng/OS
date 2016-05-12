@@ -1,0 +1,8 @@
+isodir
+sysroot
+tools
+toolchain
+*.iso
+*.o
+*.kernel
+
